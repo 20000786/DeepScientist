@@ -6,7 +6,7 @@ We're excited to share DeepScientist, the first large-scale empirical evidence t
 
 We have now demonstrated that AI can genuinely push the frontier forward. The new question we face is how to enhance AI's scientific discovery capabilities while minimizing resource consumption. As the first automated, full-cycle scientific discovery system, DeepScientist can generate novel, SOTA-surpassing methods and continuously advance the scientific frontier at a pace far exceeding human researchers.
 
-![image.png](Figure/Result.png)
+![image.png](Figure/result.png)
 
 ### Open Source Plan
 Our entire open source plan will be divided into four phases.
