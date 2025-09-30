@@ -8,7 +8,7 @@
 [![Homepage](https://img.shields.io/badge/Homepage-ai--researcher.net-green.svg)](http://ai-researcher.net)
 
 </div>
-
+![image.png](Figure/deepscientist_figure.png)
 
 
 We're excited to share DeepScientist, the first large-scale empirical evidence that an Artificial Intelligence (AI) can progressively surpass the human state-of-the-art (SOTA) on frontier scientific tasks.
