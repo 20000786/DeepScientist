@@ -1,5 +1,16 @@
 # DeepScientist: Advancing the Frontier of Scientific Discovery
 
+<div align="center">
+  
+[![GitHub stars](https://img.shields.io/github/stars/ResearAI/DeepScientist)](https://github.com/ResearAI/DeepScientist/stargazers) 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/) 
+[![arXiv](https://img.shields.io/badge/arXiv-2510.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2510.xxxxx)
+[![Homepage](https://img.shields.io/badge/Homepage-ai--researcher.net-green.svg)](http://ai-researcher.net)
+
+</div>
+
+
+
 We're excited to share DeepScientist, the first large-scale empirical evidence that an Artificial Intelligence (AI) can progressively surpass the human state-of-the-art (SOTA) on frontier scientific tasks.
 
 ![image.png](Figure/DeepScientist.png)
@@ -32,10 +43,87 @@ We will open-source all ~5,000 hypotheses and ~1,100 experimental logs. This wil
 #### Phase 4: DeepScientist Source Code Release
 We will act responsibly, conducting long-term testing and adjustments to prevent any potential harm to human research. Following this, we will release the core architecture of the DeepScientist code to foster community development.
 
-### A Few Thoughts
 
-- Build a nanoDeepScientist! We encourage everyone to try creating simplified versions of an automated exploration agent. It's a great way to explore the core principles.
+### Some Thoughts
 
-- The "memory" is simpler than it looks. The Findings Memory that powers our system can be built with a basic embedding model. Don't be intimidated!
+**If you find the following comments helpful, feel free to give a star to this repo, by [Yixuan Weng](https://scholar.google.com/citations?hl=zh-CN&user=O1XsDEMAAAAJ&view_op=list_works&sortby=pubdate).**
 
-- Discovery is about to get much faster. The core question is no longer "Can AI innovate?" but "How can we best guide its powerful exploratory process to maximize scientific return?" Let's figure it out together.
+
+###### Comment 1
+
+* Q: Your previous project was [CycleResearcher](https://github.com/zhu-minjun/Researcher). Why did you call this new one `DeepScientist` instead of `DeepResearcher`?
+* A: Back in September 2024, I had already planned to name my current work “DeepResearcher,” similar to [DeepReviewer](https://github.com/zhu-minjun/Researcher). However, OpenAI later took over that name (though I think their work is more about “Search” than true “Research”). So, I decided to call my project `DeepScientist`.
+
+
+###### Comment 2
+
+* Q: When will you open-source it?
+* A: I will open-source it only after ensuring sufficient safety, because I’m still not entirely certain that the benefits of `DeepScientist` to academia outweigh its potential risks. Therefore, I have to take a cautious approach.
+* Q: Why are you taking a phased open-source strategy?
+* A: Because the community is extremely enthusiastic—almost everyone can’t wait for me to open-source it! I plan to spend my National Day and Mid-Autumn Festival holidays (in China, this is the longest public holiday in 2025) revising the code, so the community can experience the system earlier and explore how it might accelerate scientific discovery across different fields. Thanks to the support of [Zhongguancun Academy](http://bjzgca.edu.cn/), we will be able to provide the full DeepScientist system **free of charge** to the community. If you’re interested, you can sign up early using the [Waitlist Form](https://forms.gle/8FnGgqgBVEKv3q6a7).
+
+
+###### Comment 3
+
+* Q: Will I have a chance to reproduce or improve DeepScientist?
+* A: Of course! We built it on top of [ResearStudio](https://github.com/ResearAI/ResearStudio) in just two months. I believe you could easily create something like an “Open-DeepScientist” or “nano-DeepScientist.” We strongly encourage the community to pursue such projects.
+
+
+###### Comment 4
+
+* Q: Do you believe there is a Scaling Law for AI-driven scientific discovery?
+* A: I firmly believe that AI-driven scientific discovery follows its own Scaling Law. But it’s not an isolated phenomenon—it’s a natural extension and amplification of the accelerating pace of human discovery. Throughout history, the speed of scientific progress has continuously increased, and in modern times this acceleration is especially tangible. Ever since middle school, I loved playing *Sid Meier’s Civilization*, where knowledge and technology accumulation leads to faster “Eureka moments.” I believe we are now entering a real-world “Eureka Era” driven by AI.
+
+
+
+###### Comment 5
+
+* Q: At present, so-called “AI scientists” seem more like “high-throughput trial-and-error machines” rather than true “discoverers” with deep insights. How can we improve their scientific intuition?
+* A: First, as model capabilities grow, I can already sense improvements in their ability to identify limitations in scientific questions. Early on, with DeepSeek-R1, its observations were very superficial. But after the release of Qwen-3-235B-Thinking-2507, its insight and hypothesis-generation capabilities clearly improved. (In my view, only models stronger than this Qwen-3-235B version are capable of generating truly valuable discoveries.) RLVR is a promising direction, but it comes with challenges: high costs and low training efficiency (roughly 1000 GPU hours to produce just one useful sample).
+
+
+###### Comment 6
+
+* Q: The total cost of this research is about $100,000. Compared to funding a human PhD student for a similar research cycle, do you think this is cost-effective at the current stage?
+* A: I think both have their strengths. Failure is the mother of success, and the biggest advantage of AI is its ability to explore continuously without fatigue. On one hand, we can rely on AI to try many different strategies—even discovering that a certain approach fails in a field is itself a meaningful finding. On the other hand, this is just the beginning. In the coming years, AI costs will decrease significantly due to both improved capabilities and cheaper reasoning.
+
+
+
+###### Comment 7
+
+* Q: One of the most exciting findings in your paper is the “near-linear relationship” between computational resources and research output. Do you predict this trend will continue indefinitely with more GPUs, or will it soon hit a bottleneck? What might that next bottleneck be?
+* A: I don’t think it will continue indefinitely. We are about to hit a bottleneck. The next bottleneck will be “exploration efficiency,” not “exploration scale.” Right now, most compute is wasted on low-value explorations. In the future, the challenge is to avoid such low-value work. While DeepScientist occasionally discovers new methods to improve performance through trial and error, the gains are often marginal. True breakthroughs will only come when we can perform large-scale, high-value exploration.
+
+
+###### Comment 8
+
+* Q: Are there any other surprises?
+* A: Yes! In early October, we will both fully open-source the system and provide a demo tool. I believe every researcher will be interested in it—it significantly enhances DeepScientist’s demonstration capabilities.
+
+
+---
+
+# 📰 Latest Work
+
+
+* **Survey | How Far Are AI Scientists from Changing the World?**
+    * *Source:* arXiv Publication (Jul 2025)
+    * *Link:* [Paper](https://arxiv.org/pdf/2507.23276)
+
+* **Position Paper | AI Scientists Fail Without Strong Implementation Capability**
+    * *Source:* arXiv Publication (Jun 2025)
+    * *Link:* [Paper](https://arxiv.org/pdf/2506.01372)
+
+* **Launch | Airaxiv. Your Gateway to AI-Generated Research!**
+    *   *Source:* Airaxiv Website
+    *   *Link:* [Website](https://airaxiv.com/)
+
+* **Research Paper | AI Scientists Fail Without Strong Implementation Capability**
+    * *Source:* aclanthology (ACL 2025)
+    * *Link:* [Paper](https://aclanthology.org/2025.acl-long.1420/)
+    * *Link:* [Code](https://github.com/zhu-minjun/Researcher/)
+ 
+* **Research Paper | CycleResearcher: Improving Automated Research via Automated Review**
+    * *Source:* OpenReview (ICLR 2025)
+    * *Link:* [Paper](https://openreview.net/pdf?id=bjcsVLoHYs)
+    * *Link:* [Code](https://github.com/zhu-minjun/Researcher/)
