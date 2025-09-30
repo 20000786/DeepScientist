@@ -13,6 +13,12 @@
 
 ---
 
+# 🔥 Featured News
+
+- [2025.09.26] We have released this repository for the first time, with the open-source code for the initial stage available at [ResearAI/ResearStudio](https://github.com/ResearAI/ResearStudio)
+
+---
+
 We're excited to share DeepScientist, the first large-scale empirical evidence that an AI can progressively surpass the human SOTA on frontier scientific tasks. In a striking demonstration in the highly competitive field of AI text detection, DeepScientist achieved progress in just two weeks that is comparable to three years of cumulative human research. The DeepScientist system overcomes this by demonstrating goal-oriented, continuous, and iterative scientific discovery without human intervention, marking a significant step toward AI becoming a true partner in research.
 
 ![image.png](Figure/DeepScientist.png)
@@ -111,6 +117,7 @@ We will act responsibly, conducting long-term testing and adjustments to prevent
 * **Survey | How Far Are AI Scientists from Changing the World?**
     * *Source:* arXiv Publication (Jul 2025)
     * *Link:* [Paper](https://arxiv.org/pdf/2507.23276)
+    * *Link:* [Resource](https://github.com/ResearAI/Awesome-AI-Scientist)
 
 * **Position Paper | AI Scientists Fail Without Strong Implementation Capability**
     * *Source:* arXiv Publication (Jun 2025)
