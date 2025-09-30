@@ -1,4 +1,4 @@
-# DeepScientist: Advancing the Frontier of Scientific Discovery
+# DeepScientist: Advancing Frontier-Pushing Scientific Findings Progressively 
 
 <div align="center">
   
