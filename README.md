@@ -98,7 +98,7 @@ We will act responsibly, conducting long-term testing and adjustments to prevent
 ###### Comment 8
 
 * Q: Are there any other surprises?
-* A: Yes! In early October, we will both fully open-source an novel tool. I believe every researcher will be interested in it—it significantly enhances DeepScientist’s demonstration capabilities.
+* A: Yes! In early October, we will both fully open-source a tool. I believe every researcher will be interested in it—it significantly enhances DeepScientist’s demonstration capabilities.
 
 
 ---
