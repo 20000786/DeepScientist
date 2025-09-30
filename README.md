@@ -11,12 +11,13 @@
 
 ![image.png](Figure/deepscientist_figure.png)
 
+---
 
-We're excited to share DeepScientist, the first large-scale empirical evidence that an Artificial Intelligence (AI) can progressively surpass the human state-of-the-art (SOTA) on frontier scientific tasks.
+We're excited to share DeepScientist, the first large-scale empirical evidence that an AI can progressively surpass the human SOTA on frontier scientific tasks. In a striking demonstration in the highly competitive field of AI text detection, DeepScientist achieved progress in just two weeks that is comparable to three years of cumulative human research. The DeepScientist system overcomes this by demonstrating goal-oriented, continuous, and iterative scientific discovery without human intervention, marking a significant step toward AI becoming a true partner in research.
 
 ![image.png](Figure/DeepScientist.png)
 
-We have now demonstrated that AI can genuinely push the frontier forward. The new question we face is how to enhance AI's scientific discovery capabilities while minimizing resource consumption. As the first automated, full-cycle scientific discovery system, DeepScientist can generate novel, SOTA-surpassing methods and continuously advance the scientific frontier at a pace far exceeding human researchers.
+We have now demonstrated that AI can genuinely push the frontier forward across multiple, diverse domains. On the popular research topic of AI text detection, DeepScientist autonomously generated 2,472 unique research ideas, implemented 600 of the most promising hypotheses, and ultimately produced methods that increased the AUROC score by 7.9% on the RAID dataset while simultaneously reducing inference latency. This capability extends far beyond a single breakthrough. When tasked with the highly complex challenge of "Agent Failure Attribution," DeepScientist independently conceived of and proposed a novel method named A2P (Abduction-Action-Prediction). Its core innovation was to elevate the task from simple pattern recognition to structured causal reasoning. This new method achieved a score of 47.46 on the "algorithm-generated" setting of the Who&When benchmark, a massive 183.7% improvement over the human SOTA baseline. These achievements prove DeepScientist can produce discoveries with lasting impact and systematically advance the technological frontier in multiple fields.
 
 ![image.png](Figure/result.png)
 
