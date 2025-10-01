@@ -4,7 +4,7 @@
   
 [![GitHub stars](https://img.shields.io/github/stars/ResearAI/DeepScientist)](https://github.com/ResearAI/DeepScientist/stargazers) 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-380/) 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2510.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.26603-b31b1b.svg)](https://arxiv.org/abs/2509.26603)
 [![Homepage](https://img.shields.io/badge/Homepage-ai--researcher.net-green.svg)](http://ai-researcher.net)
 
 </div>
@@ -61,7 +61,7 @@ We will act responsibly, conducting long-term testing and adjustments to prevent
 ###### Comment 1
 
 * Q: Your previous project was [CycleResearcher](https://github.com/zhu-minjun/Researcher). Why did you call this new one `DeepScientist` instead of `DeepResearcher`?
-* A: Back in September 2024, I had already planned to name my current work “DeepResearcher,” similar to [DeepReviewer](https://github.com/zhu-minjun/Researcher). However, OpenAI later took over that name (though I think their work is more about “Search” than true “Research”). So, I decided to call my project `DeepScientist`.
+* A: Back in September 2024, I had already planned to name my current work “DeepResearcher,” similar to [DeepReviewer](https://github.com/zhu-minjun/Researcher). However, OpenAI later took over that name. So, I decided to call my project `DeepScientist`.
 
 
 ###### Comment 2
@@ -151,3 +151,17 @@ Join the conversation and exchange ideas in these online communities:
     </br>
     <img src="https://github.com/ResearAI/Awesome-AI-Scientist/blob/main/img/WeChat.jpg?raw=true" alt="AI Scientist WeChat Group QR Code" width="150">
     </br>
+
+
+
+```
+@misc{weng2025deepscientistadvancingfrontierpushingscientific,
+      title={DeepScientist: Advancing Frontier-Pushing Scientific Findings Progressively}, 
+      author={Yixuan Weng and Minjun Zhu and Qiujie Xie and Qiyao Sun and Zhen Lin and Sifan Liu and Yue Zhang},
+      year={2025},
+      eprint={2509.26603},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.26603}, 
+}
+```
