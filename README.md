@@ -155,13 +155,10 @@ Join the conversation and exchange ideas in these online communities:
 
 
 ```
-@misc{weng2025deepscientistadvancingfrontierpushingscientific,
-      title={DeepScientist: Advancing Frontier-Pushing Scientific Findings Progressively}, 
-      author={Yixuan Weng and Minjun Zhu and Qiujie Xie and Qiyao Sun and Zhen Lin and Sifan Liu and Yue Zhang},
-      year={2025},
-      eprint={2509.26603},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2509.26603}, 
+@article{weng2025deepscientist,
+  title={DeepScientist: Advancing Frontier-Pushing Scientific Findings Progressively},
+  author={Weng, Yixuan and Zhu, Minjun and Xie, Qiujie and Sun, Qiyao and Lin, Zhen and Liu, Sifan and Zhang, Yue},
+  journal={arXiv preprint arXiv:2509.26603},
+  year={2025}
 }
 ```
