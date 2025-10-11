@@ -128,7 +128,7 @@ We will act responsibly, conducting long-term testing and adjustments to prevent
     *   *Source:* Airaxiv Website
     *   *Link:* [Website](https://airaxiv.com/)
 
-* **Research Paper | AI Scientists Fail Without Strong Implementation Capability**
+* **Research Paper | DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process**
     * *Source:* aclanthology (ACL 2025)
     * *Link:* [Paper](https://aclanthology.org/2025.acl-long.1420/)
     * *Link:* [Code](https://github.com/zhu-minjun/Researcher/)
