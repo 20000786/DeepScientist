@@ -144,9 +144,6 @@ We will act responsibly, conducting long-term testing and adjustments to prevent
 
 Join the conversation and exchange ideas in these online communities:
 
-*   **AI Research Discord:** [![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HeubHd6d)
-    *   *An active community for general AI research discussions.*
-
 *   **AI Scientist Research Discussion Group:** [![Platform](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)]() <!-- Removed placeholder link -->
     </br>
     <img src="https://github.com/ResearAI/Awesome-AI-Scientist/blob/main/img/WeChat.jpg?raw=true" alt="AI Scientist WeChat Group QR Code" width="150">
