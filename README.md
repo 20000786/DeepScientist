@@ -34,10 +34,13 @@ Our entire open source plan will be divided into four phases.
 #### Phase 0: General Agent Framework
 We have already open-sourced the front-end and back-end code at [ResearAI/ResearStudio](https://github.com/ResearAI/ResearStudio). You can use it as a foundation to build various professional Agents with your own custom tools.
 
-#### Phase 1: Application-Based Access (Expected before Oct 1st)
+#### Phase 1: Application-Based Access 
 To ensure safety, we will invite a small group of users to try DeepScientist. If you have a task you're ready to explore, please fill out our [Waitlist Form](https://forms.gle/8FnGgqgBVEKv3q6a7). We will collaborate with you to further refine DeepScientist.
 
-#### Phase 2: Foundational Components Release (Expected before Oct 15th)
+#### Phase 2: Foundational Components Release
+
+**(UPDATE) This stage has been completed. We are providing the [http://deepscientist.cc](http://deepscientist.cc) website and the [DeepScientist-CLI](https://github.com/ResearAI/DeepScientist-CLI) code, which are now open for use by the first 30 invited users.**
+
 After ensuring safety, we will open-source our foundational components. At this stage, you can immediately start building your own DeepScientist or replicating our work (perhaps an "Open-DeepScientist," which we strongly encourage!):
 
 - Implementing DeepScientist doesn't require massive engineering efforts, especially with our foundational components. It took us only about one month starting from [ResearStudio](https://github.com/ResearAI/ResearStudio).
